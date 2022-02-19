@@ -1,1 +1,1 @@
-from thapar
+from thapar university
